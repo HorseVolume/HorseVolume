@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>The Sun Also Rises</title>
+	<release-date>Kickstarter Campaign: August 7th</release-date>
+	<website>http://www.thesunalsoris.es/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac</name>
+		</platform>
+		<platform>
+			<name>OUYA</name>
+			<link>http://www.ouya.tv/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>To Be Announced</value>
+		</price>
+	</prices> 
+
+	<description>
+	The Sun Also Rises is an Interactive Narrative Adventure that explores the Global War on Terror through a collection of vignettes based on personal accounts by U.S. Soldiers, their families and people from Afghanistan. We want to focus on empathizing with human struggles and portray a side of war that is often overlooked.	</description>
+	
+	<history>
+	The Sun Also Rises was conceived in September 2013 by Ty Underwood as a study on the Global War on Terror. Through interviews, he has continued to educate himself on the issues and experiences of veterans, active service members and their families. August Early was inspired by Ty’s desire to make a meaningful experience and joined to contribute visual direction and design. Tap Pribbenow came aboard to offer his design and programming expertise. Claire Thompson joined to bring life to the game’s narrative and character dialogue.	</history>
+-->
+	<features>
+		<feature>Natural conversation system: a dialogue engine that allows for miscommunication. Players can be interrupted or choose not to speak, explore the nuances of language barriers and immerse themselves in the story.</feature>
+		<feature>3rd Person exploration through the worldwide settings of the War on Terror.</feature>
+		<feature>Environmental moodscapes that utilize a vibrant color palette to juxtapose the subject matter with their beautiful settings.</feature>
+		<feature>Passive multiplayer: the choices you make in game are saved in the cloud and affect the gameplay for future players.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>WF_56QMocE0</youtube>
+			<!--<vimeo>23571681</vimeo>-->
+		</trailer>
+	</trailers>
+	<!--		
+	<awards>
+	
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+
+		
+	</awards>
+	-->
+
+	<quotes>
+		<quote>
+			<description>The trailer has a colorful, stylized look and hints at the game's vignette structure, based as it is on real-life accounts of U.S. military personnel.</description>
+			<name>Danielle Riendeau</name>
+			<website>Polygon</website>
+			<link>http://www.polygon.com/2014/7/31/5954425/sun-also-rises-iraq-war</link>
+		</quote>
+		<quote>
+			<description>I am keen to discover how all this works.</description>
+			<name>Alice O'Conner</name>
+			<website>Rock Paper Shotgun</website>
+			<link>http://www.rockpapershotgun.com/2014/07/30/the-sun-also-rises-war-game-civilians/</link>
+		</quote>
+		<quote>
+			<description>Seriously, that sounds like everything people have been asking for from a war game for a long time.</description>
+			<name>Adam Paris</name>
+			<website>Indie Statik</website>
+			<link>http://indiestatik.com/2014/07/29/screenshot-scrutiny-july-26-2014/</link>
+		</quote>
+		<quote>
+			<description>Not one bullet or explosion at all. Bold, energetic colors. It's a little weird that a game about 'the Global War on Terror' looks so beautiful.</description>
+			<name>Evan Narcisse</name>
+			<website>Kotaku</website>
+			<link>http://kotaku.com/a-war-game-that-doesnt-show-the-war-1614027054</link>
+		</quote>
+	
+	</quotes>
+<!--
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	</additionals>
+	-->
+	<credits>
+		<credit>
+			<person>Ty Underwood</person>
+			<website>www.bytyunderwood.com</website>
+			<role>Game Designer, Programmer, and Artist</role>
+		</credit>
+		<credit>
+			<person>August Early</person>
+			<website>www.augustearly.com</website>
+			<role>Game Designer, Artist</role>
+		</credit>
+		<credit>
+			<person>Tap Pribbenow</person>
+			<role>Game Designer, Programmer</role>
+		</credit>
+		<credit>
+			<person>Claire Thompson</person>
+			<website>www.mclairet.com</website>
+			<role>Writer, Artist</role>
+		</credit>
+	</credits>
+</game>

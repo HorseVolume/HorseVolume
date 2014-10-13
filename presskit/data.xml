@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+
+<analytics>UA-52345564-1</analytics> 
+
+	<title>Horse Volume</title>
+	<founding-date>September 2, 2013</founding-date>
+	<website>http://www.horsevolume.com/</website>
+	<based-in>Savannah, GA</based-in>
+	
+	<press-contact>horsevolume@gmail.com</press-contact>
+	<phone>(828) 808-2846</phone>
+	<address>
+		<line>320 E Victory Dr</line>
+		<line>Savannah, GA </line>
+		<line>31405</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>twitter.com/HorseVolume</link>
+		</social>
+		<social>
+			<name>facebook.com/HorseVolume</name>
+			<link>facebook.com/HorseVolume</link>
+		</social>
+	</socials>
+
+	<description>	
+		Horse Volume’s mission is to expand games as an art form and create new kinds of experiences. We believe in inclusivity and advocacy as core motivators for our projects.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Horse Volume was founded by Ty Underwood and August Early as a dev collective that fuses creativity and advocacy into every game. Tap Pribbenow and Claire Thompson joined on to help develop the team’s first official release, The Sßun Also Rises. </text>
+		</history>
+		<history>
+			<header>The Sun Also Rises</header>
+			<text>The Horse Volume team is working on The Sun Also Rises, a game about human interactions in the Global War on Terror. Horse Volume is currently preparing to launch a kickstarter campaign to fund development of The Sun Also Rises on August 8, 2014, releasing on PC and Ouya.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Trailer 1</name>
+			<youtube>WF_56QMocE0</youtube>
+		</trailer>
+	</trailers>
+
+	<awards>
+		<award>
+			<description>T.A. Pribbenow - Grow: the organic building game</description>
+			<info>Cards Against Humanity Tabletop Deathmatch 2013 Finalist, IndieCade E3 2014 Showcase Selection</info>
+		</award>
+	</awards>
+	<!--	
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>
+	-->
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Ty Underwood</person>
+			<website>www.bytyunderwood.com</website>
+			<role>Game Designer, Programmer, and Artist</role>
+		</credit>
+		<credit>
+			<person>August Early</person>
+			<website>www.augustearly.com</website>
+			<role>Game Designer, Artist</role>
+		</credit>
+		<credit>
+			<person>Tap Pribbenow</person>
+			<role>Game Designer, Programmer</role>
+		</credit>
+		<credit>
+			<person>Claire Thompson</person>
+			<website>www.mclairet.com</website>
+			<role>Writer, Artist</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>horsevolume@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/Horsevolume</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/Horsevolume</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>Horsevolume.com</link>
+		</contact>
+	</contacts>
+</game>
+
+
+
+
+ 
